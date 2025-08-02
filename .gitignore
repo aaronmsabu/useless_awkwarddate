@@ -1,4 +1,4 @@
 # Ignore virtual environment
 mp_env/
 *.pyc
-__pycache__/
+__pycache__/mp_env/
