@@ -1,0 +1,14 @@
+# Core packages
+streamlit>=1.22.0
+opencv-python>=4.7.0
+numpy>=1.22.0
+mediapipe>=0.9.0
+
+# Real-time video processing
+streamlit-webrtc>=0.45.0
+av>=10.0.0
+
+# Additional dependencies
+pygame>=2.1.0
+requests>=2.28.0
+python-dateutil>=2.8.2
